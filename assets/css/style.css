@@ -927,7 +927,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background-image: url(assets/img/f33a674bb79bd6f6dee192fd66103661.jpg  );
+  background-image: url(assets/img/f33a674bb79bd6f6dee192fd66103661.jpg);
   border-radius: 20px;
   filter: drop-shadow(0 0 0.75rem rgb(231, 217, 220));
 }
@@ -1488,7 +1488,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #ddcaca;
+  background: #ffffff;
   min-height: 40px;
   margin-top: 80px;
 }
